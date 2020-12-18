@@ -455,7 +455,7 @@ form,
     margin-left: -30px;
     margin-top: -30px;
     padding: 0;
-    background-image: url('../images/favicon.ico');
+    background-color: #000000;
     border-radius: 0;
     -webkit-animation: sk-scaleout 1.0s infinite ease-in-out;
     animation: sk-scaleout 1.0s infinite ease-in-out;
