@@ -113,6 +113,7 @@
                 });
             });
     };
+	
     var ssSlickSlider = function() {
         $('.testimonials__slider').slick({
             arrows: true,
