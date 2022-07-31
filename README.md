@@ -17,6 +17,5 @@ Personal Portfolio Website
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 </div>
 <div id="header" align="center">
-  <h1>Made With</h1>
   <img src="https://media.giphy.com/media/M4NykXxUE0HAcK7UJ6/giphy.gif" width="100"/>
 </div>
